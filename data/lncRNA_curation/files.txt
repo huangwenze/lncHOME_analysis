@@ -1,0 +1,1 @@
+These files include curation of lncRNAs for six vertebrates by lncHOME.
